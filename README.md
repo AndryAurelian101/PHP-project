@@ -18,9 +18,9 @@ Bază de date
 Pentru baza de date voi folosi MySql unde se vor defini următoarele tabele:
 
 Bibliotecari, care va conține datele despre angajații bibliotecii
+Autori, care va conține datele despre autorii cărților
 Cărți, care va conține datele despre cărțile valabile
-Clienți, care va conține informațiile clienților
-Domenii, care va conține criteriile de domenii ale cărților
-Edituri, care va conține editurile fiecărei cărți
+Cititori, care va conține informațiile clienților
+Genuri, care va conține criteriile de domenii ale cărților
 Împrumuturi, care va conține detalii despre fiecare împrumut făcut și
-Permise, care va conține permisele fiecărui utilizator
+Exemplare, care va conține exemplarele fiecărei cărți
