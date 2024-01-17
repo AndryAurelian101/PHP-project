@@ -1,11 +1,3 @@
-<?php
-session_start();
-if (!isset($_SESSION['authenticated']) || $_SESSION['authenticated'] !== true) {
-    // Redirecteaza catre pagina de introducere a adresei de e-mail
-    header('Location: log_in_site.php');
-    exit();
-}
-?>
 <!DOCTYPE HTML>
 <html lang="ro"> 
 <HTML>
@@ -17,7 +9,6 @@ if (!isset($_SESSION['authenticated']) || $_SESSION['authenticated'] !== true) {
         <base href="index.html" target="_self">
     </head>
     <body>
-        <h1>Bun venit USER!</h1>
-        <a href="logout.php">Logout</a>
+        <h1>Bun venit Manager!</h1>
     </body>
 </HTML>

@@ -39,12 +39,12 @@
                 </p>
                 <ul>
                     <li><b>Bibliotecari</b>, care va conține datele despre angajații bibliotecii
+                    <li><b>Autori</b>, care va conține datele despre autorii cărților
                     <li><b>Cărți</b>, care va conține datele despre cărțile valabile
-                    <li><b>Clienți</b>, care va conține informațiile clienților
-                    <li><b>Domenii</b>, care va conține criteriile de domenii ale cărților
-                    <li><b>Edituri</b>, care va conține editurile fiecărei cărți
+                    <li><b>Cititori</b>, care va conține informațiile clienților
+                    <li><b>Genuri</b>, care va conține criteriile de domenii ale cărților
                     <li><b>Împrumuturi</b>, care va conține detalii despre fiecare împrumut făcut și 
-                    <li><b>Permise</b>, care va conține permisele fiecărui utilizator
+                    <li><b>Exemplare</b>, care va conține exemplarele fiecărei cărți
                 </ul>
             </article>
             <article>
