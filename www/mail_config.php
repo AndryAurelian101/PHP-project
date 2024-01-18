@@ -1,5 +1,4 @@
 <?php
-$username='andry-library@alwaysdata.net';
-$password='PhpIsMyPassword1';
-
+$username='user@host.com';
+$password = "Password1";
 ?>
