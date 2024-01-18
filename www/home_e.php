@@ -9,10 +9,10 @@ $userId = $_SESSION['id'];
 $api_key = 'AIzaSyAsTDXHjr8CvAfVgndz0Cs4I1kbJEr95Sk';
 
 // Replace these with your database credentials
-$hostname = "mysql-andry-library.alwaysdata.net";
-$username = "335087_manager1";
-$password = "PhpIsMyPassword1";
-$database = "andry-library_admin";
+$hostname = "host";
+$username = "user1";
+$password = "Password1";
+$database = "library_database";
 
 // Create a database connection
 $db = new mysqli($hostname, $username, $password, $database);
