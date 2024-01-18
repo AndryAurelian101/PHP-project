@@ -11,10 +11,10 @@ if (!isset($_SESSION['authenticated']) || $_SESSION['authenticated'] !== true ||
 }
 
 // Replace these with your database credentials
-$hostname = "mysql-andry-library.alwaysdata.net";
-$username = "335087_manager1";
-$password = "PhpIsMyPassword1";
-$database = "andry-library_admin";
+$hostname = "host";
+$username = "user1";
+$password = "Password1";
+$database = "library_database";
 
 // Create a database connection
 $conn = new mysqli($hostname, $username, $password, $database);
