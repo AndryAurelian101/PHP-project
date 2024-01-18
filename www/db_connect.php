@@ -1,9 +1,9 @@
 ﻿<?php
 
-$sname= "mysql-andry-library.alwaysdata.net";
-$unmae= "335087_manager1";
-$password = "PhpIsMyPassword1";
-$db_name = "andry-library_admin";
+$sname= "host";
+$unmae= "user1";
+$password = "Password1";
+$db_name = "library_database";
 $conn = mysqli_connect($sname, $unmae, $password, $db_name);
 
 if (!$conn) {
